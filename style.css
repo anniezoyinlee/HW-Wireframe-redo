@@ -1,0 +1,68 @@
+body{
+            background-color: grey;
+            color:grey;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        p{
+            padding:5px;
+        }
+        .content{
+            width:1200px;
+            margin-left:auto;
+            margin-right:auto;
+        }
+        header,
+        nav,
+        footer{
+            background-color: whitesmoke;
+            height: 60px;
+            text-align: center;
+            padding: 10px;
+            margin:10px 0 10px 0;
+        }
+        .middle{
+            margin-left:auto;
+            margin-right:auto;
+        }
+        section{
+            background-color: whitesmoke;
+            width:650px;
+            height: 300px;
+            display:inline-block;
+            /* 對齊上方 */
+            vertical-align:top;
+            /* 文字置中 */
+            text-align:center;
+            padding:10px;
+            margin:10px 10px 10px 0px;
+        }
+        article{
+            background-color: grey;
+            color:whitesmoke;
+            height:220px;
+            text-align:center;
+            padding:5px;
+            margin:5px 5px 5px 5px;
+        }
+        .first,
+        .second{
+            background-color:whitesmoke;
+            color:grey;
+            font-weight:244px;
+            height:55px;
+            margin:10px;
+            text-align:center;
+            padding:5px;
+        }
+        aside{
+            background-color: whitesmoke;
+            width:485px;
+            height:300px;
+            display:inline-block;
+            /* 對齊上方 */
+            vertical-align:top;
+            /* 文字置中 */
+            text-align:center;
+            padding:10px;
+            margin:10px 0px 10px 10px;
+        }
